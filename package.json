@@ -2,9 +2,11 @@
   "name": "contacts",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://clsoar.github.io/contacts-list",
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
     "form-serialize": "^0.7.2",
+    "gh-pages": "^1.2.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
